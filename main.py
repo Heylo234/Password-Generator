@@ -1,5 +1,4 @@
 import random
-import time
 
 for i in range(100):
     should_generate = input("Press enter to Generate")
