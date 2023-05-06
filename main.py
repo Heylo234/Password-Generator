@@ -25,7 +25,4 @@ for i in range(100):
             final_set) + random.choice(final_set) + random.choice(final_set) + random.choice(final_set) + random.choice(
             final_set))
     else:
-        print("Closing...")
-        time.sleep(1)
-        print("Closed")
         exit()
